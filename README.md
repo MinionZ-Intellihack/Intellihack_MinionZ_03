@@ -17,5 +17,6 @@ To get started, install the required dependencies using the following commands:
 ```
 
 ## Usage
-After installing the dependencies, in the inference script run all the cells, and then you can use the generate() function to infer the model.
+After installing the dependencies, in the inference.ipynb run all the cells under the Background Setup, and then you can use the generate() function to infer the model.
+The inference implementation is implemented under inference subtopic.
 
