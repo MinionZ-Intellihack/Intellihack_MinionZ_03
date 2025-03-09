@@ -1,8 +1,5 @@
 # Intellihack_MinionZ_03
 
-## Overview
-Welcome to the **Intellihack_MinionZ_03** project! This repository contains the necessary setup and dependencies to run the application efficiently.
-
 ## How to Run inference.ipynb
 
 This guide provides detailed instructions on how to set up and run `inference.ipynb` both locally and on Google Colab.
